@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Valid Long Full name (more than 30 characters)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3282e50-dfc4-40c4-961d-4f6ed5fad2d7</testCaseGuid>
+</TestCaseEntity>

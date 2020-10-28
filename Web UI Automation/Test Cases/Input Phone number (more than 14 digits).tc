@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Phone number (more than 14 digits)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6dc9026-8b28-46d5-87c2-af065f1c746c</testCaseGuid>
+</TestCaseEntity>

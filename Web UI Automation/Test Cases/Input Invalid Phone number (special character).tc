@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Invalid Phone number (special character)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab440779-374d-49a8-9ec6-ee43c9301fe0</testCaseGuid>
+</TestCaseEntity>

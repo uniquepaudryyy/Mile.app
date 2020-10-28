@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Valid Long Company name (more than 30 characters)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b71953c6-40a4-4eb4-9330-d0cd7fb80d44</testCaseGuid>
+</TestCaseEntity>

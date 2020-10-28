@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register with Valid Full name, Email, Phone number (8xxx), and Company name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8d136ae-7585-4f2a-80af-2748a4ab1dde</testCaseGuid>
+</TestCaseEntity>

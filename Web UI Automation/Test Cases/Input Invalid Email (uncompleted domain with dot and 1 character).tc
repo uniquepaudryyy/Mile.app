@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Invalid Email (uncompleted domain with dot and 1 character)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30ad27c1-1689-4215-b879-c196549058a5</testCaseGuid>
+</TestCaseEntity>

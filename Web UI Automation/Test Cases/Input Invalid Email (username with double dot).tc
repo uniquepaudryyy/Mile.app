@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Invalid Email (username with double dot)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeb4e90b-9223-4775-aca4-d526f06ee457</testCaseGuid>
+</TestCaseEntity>

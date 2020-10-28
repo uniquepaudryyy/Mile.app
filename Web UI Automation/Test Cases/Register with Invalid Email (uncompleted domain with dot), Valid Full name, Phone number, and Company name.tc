@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register with Invalid Email (uncompleted domain with dot), Valid Full name, Phone number, and Company name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d04d04b0-aac2-442e-8383-5b779d9b58a9</testCaseGuid>
+</TestCaseEntity>
